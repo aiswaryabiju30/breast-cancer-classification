@@ -1,6 +1,8 @@
-# Breast Cancer Classification using Deep Learning
+# Breast Cancer Detection using Deep Learning
 
-This project is a comparative analysis of four CNN models (DenseNet, VGG16, ResNet50, and MobileNetV2) for classifying breast ultrasound images as either benign or malignant. By leveraging these models, the goal is to improve diagnostic accuracy for breast cancer.
+This project is a deep learning based image classification system for detecting breast cancer from ultrasound images. The project compares multiple CNN architectures such as DenseNet121, VGG16, ResNet50, and MobileNetV2 for classifying images into normal, benign, and malignant categories.
+
+![Project Image](https://miro.medium.com/v2/resize:fit:1400/1*QJZ6W-Pck_WoJf5dG3qSQQ.jpeg)
 
 ## Project Overview
 
